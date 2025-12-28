@@ -1,5 +1,5 @@
 
-# PiShrink #
+# PiShrink macOS rewrite #
 
 PiShrink is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot. This will make putting the image back onto the SD card faster and the shrunk images will compress better.
 In addition the shrunk image can be compressed with gzip and xz to create an even smaller image. Parallel compression of the image
